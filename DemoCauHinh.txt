@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>Trợ Năng FF Max</string>
+            <key>PayloadIdentifier</key>
+            <string>com.iosclub.webclip.ffmax</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>3F2504E0-4F89-11D3-9A0C-0305E82C3301</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>Precomposed</key>
+            <false/>
+            <key>URL</key>
+            <string>https://yourdomain.com/</string>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Trợ Năng FF Max</string>
+    <key>PayloadIdentifier</key>
+    <string>com.iosclub.profile.ffmax</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>4F89E0C1-25D4-41B6-A3B2-6F92C77F08F2</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
